@@ -9,12 +9,12 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //===> GANTI APIKEY, API INI CUMA BUAT FITUR TIKTOK DOWNLOAD
-global.zenzkey = 'https://api-alphabot.herokuapp.com' //Register Atau Beli Di zenzapis.xyz
+global.zenzkey = 'https://api-alphabot.herokuapp.com/download' //Register Atau Beli Di zenzapis.xyz
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
 global.ownerNumber = ['6282135905896','6282135905896'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
 global.Rowner = '6282135905896' //Owner Utama
-global.ownerName = 'defan' //Ganti Jadi Namamu
+global.ownerName = 'ᴹᴿ᭄defα͢͢͢ή彡ོ' //Ganti Jadi Namamu
 global.packname = 'Mizuhara-Mdོ' //Ganti Jadi Nama Botmu
 global.author = 'ᴹᴿ᭄defα͢͢͢ή彡ོ' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
